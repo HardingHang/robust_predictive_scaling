@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+lightning_logs/
+*.ckpt
+
+# local reference copies (licensed PDF, do not publish)
+ICDE2024.pdf
+paper_text.txt
